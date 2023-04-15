@@ -78,5 +78,7 @@ Email: changhongfu@tongji.edu.cn
 
 # Acknowledgements
 
-We sincerely thank the contribution of `Chongyi Li`, `Chen Wei` for their previous work [Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE) and [RetinexNet](https://github.com/weichen582/RetinexNet).
+ - [Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE)
+ - [RetinexNet](https://github.com/weichen582/RetinexNet)
+ - [DarkLighter](https://github.com/vision4robotics/DarkLighter)
 
